@@ -24,5 +24,6 @@ pr.stubr="electronics engineering";
 pr.stumail="rajbhargav@gmail.com";
 pr.phno="9867453210";
 pr.getStuInfo();
+  //this is how the java code written.
 }
 }
